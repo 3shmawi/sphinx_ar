@@ -1,0 +1,56 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "cursor-minimal-gltf"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [0]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "SphinxMarkerModel"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "MinimalTriangle",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "data:application/octet-stream;base64,AAAAAM3MzD0AAAAAzczMvc3MzL0AAAAAzczMPc3MzL0AAAAA",
+      "byteLength": 36
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 36,
+      "target": 34962
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 3,
+      "type": "VEC3",
+      "min": [-0.1, -0.1, 0.0],
+      "max": [0.1, 0.1, 0.0]
+    }
+  ]
+}
