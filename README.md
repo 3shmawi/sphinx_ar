@@ -26,7 +26,10 @@ Use this image as the tracking target before launching AR:
 
 ## Video Preview
 
-Add your demo video here after upload.
+
+https://github.com/user-attachments/assets/b543e227-9cfc-40ba-ab32-239e1a279bf7
+
+
 
 ## Quick Start
 
