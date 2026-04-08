@@ -24,6 +24,10 @@ Use this image as the tracking target before launching AR:
 
 ![Sphinx tracking target](assets/images/sphinx_face.jpg)
 
+## Video Preview
+
+Add your demo video here after upload.
+
 ## Quick Start
 
 ```bash
